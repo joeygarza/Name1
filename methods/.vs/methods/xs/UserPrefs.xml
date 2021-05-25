@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1B8C317C-79CA-418A-A836-A59623D044EE}|Default">
+  <MonoDevelop.Ide.ItemProperties.methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="methods/Models/comments.cs">
+    <Files>
+      <File FileName="methods/Program.cs" Line="10" Column="18" />
+      <File FileName="methods/Models/users.cs" Line="10" Column="1" />
+      <File FileName="methods/Models/comments.cs" Line="11" Column="1" />
+      <File FileName="methods/Models/posts.cs" Line="11" Column="34" />
+      <File FileName="methods/Models/images.cs" Line="12" Column="10" />
+      <File FileName="methods/Models/roles.cs" Line="11" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="methods" expanded="True">
+            <Node name="methods" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="comments.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

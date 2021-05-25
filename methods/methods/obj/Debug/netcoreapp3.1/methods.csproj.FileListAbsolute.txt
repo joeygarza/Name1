@@ -1,0 +1,12 @@
+/Users/satanisjustlikegod/Desktop/new folder/methods/methods/bin/Debug/netcoreapp3.1/methods.deps.json
+/Users/satanisjustlikegod/Desktop/new folder/methods/methods/bin/Debug/netcoreapp3.1/methods.runtimeconfig.json
+/Users/satanisjustlikegod/Desktop/new folder/methods/methods/bin/Debug/netcoreapp3.1/methods.runtimeconfig.dev.json
+/Users/satanisjustlikegod/Desktop/new folder/methods/methods/bin/Debug/netcoreapp3.1/methods.dll
+/Users/satanisjustlikegod/Desktop/new folder/methods/methods/bin/Debug/netcoreapp3.1/methods.pdb
+/Users/satanisjustlikegod/Desktop/new folder/methods/methods/obj/Debug/netcoreapp3.1/methods.csprojAssemblyReference.cache
+/Users/satanisjustlikegod/Desktop/new folder/methods/methods/obj/Debug/netcoreapp3.1/methods.AssemblyInfoInputs.cache
+/Users/satanisjustlikegod/Desktop/new folder/methods/methods/obj/Debug/netcoreapp3.1/methods.AssemblyInfo.cs
+/Users/satanisjustlikegod/Desktop/new folder/methods/methods/obj/Debug/netcoreapp3.1/methods.csproj.CoreCompileInputs.cache
+/Users/satanisjustlikegod/Desktop/new folder/methods/methods/obj/Debug/netcoreapp3.1/methods.dll
+/Users/satanisjustlikegod/Desktop/new folder/methods/methods/obj/Debug/netcoreapp3.1/methods.pdb
+/Users/satanisjustlikegod/Desktop/new folder/methods/methods/obj/Debug/netcoreapp3.1/methods.genruntimeconfig.cache
